@@ -1,0 +1,9 @@
+{
+    "path" : "~/Documents/Github/trendct-data/2016/09/marijuana-arrests",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
